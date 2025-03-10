@@ -1,5 +1,8 @@
 # سلام من مهدی هستم
 
+### مهارت های من
+
+[![My Skills](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
 ----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdi-darvish-zadeh&show_icons=true&theme=dark)
