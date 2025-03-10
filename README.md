@@ -3,4 +3,4 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mehdi-darvish-zadeh=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-darvish-zadeh&hide_progress=true)
